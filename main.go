@@ -1,2 +1,7 @@
 package main
-func main(){}
+func main(){
+System.out.println("Hello");
+}
+
+
+
